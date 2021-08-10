@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BountyTheDogHunter
-- 👀 I’m interested in ... Java and Angular Project
+- 👀 I’m interested in ... Java and Angular Projects
 - 🌱 I’m currently learning ... Angular
 - 💞️ I’m looking to collaborate on ... Anything I can be help with (not much lol)
 - 📫 How to reach me ... discord - BountyTheDogHunter
