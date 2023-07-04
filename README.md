@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BountyTheDogHunter
-- 👀 I’m interested in ... React, JavaScript, TypeScript, next.js, chakra-ui
-- 🌱 I’m currently learning ... All of the Above
-- 💞️ I’m looking to collaborate on ... Anything I can be help with (not much lol)
+- 👀 I’m interested in ... All things web development
+- 🌱 I’m currently learning ... all things web development lol
+- 💞️ I’m looking to collaborate on ... Anything I can help with
 - 📫 How to reach me ... discord - BountyTheDogHunter
 
 <!---
